@@ -1,2 +1,1 @@
-# WhatsNext-Vision-Motors
-Repository for Salesforce Project
+Greetings! I am Althea Algaba from PUP-STC. Here's my demo link:
